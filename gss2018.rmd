@@ -86,6 +86,8 @@ THIS IS QUESTION 2 IN Q2
 
 Determine if a persons performance on the wordsum test (WORDSUM) is independent of their level of schooling (DEGREE).
 
+THIS IS QUESTION 3 IN Q3
+
 ## Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->

@@ -56,6 +56,8 @@ QUESTION NUMBER ONE IN BRANCH Q1
 
 Is there a difference in years of education (EDUC) between the those who did or did not vote in 2012 (VOTE12)?
 
+THIS IS QUESTION 2 IN Q2
+
 ## Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
